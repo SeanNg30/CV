@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6669076-f05b-4efb-ab84-d19bad06ddb7" name="Changes" comment="">
+    <list default="true" id="d6669076-f05b-4efb-ab84-d19bad06ddb7" name="Changes" comment="Update Video">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,11 +77,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728024760163</updated>
-      <workItem from="1728024761191" duration="2611000" />
+      <workItem from="1728024761191" duration="3297000" />
     </task>
+    <task id="LOCAL-00001" summary="Update Video">
+      <option name="closed" value="true" />
+      <created>1728027410769</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728027410769</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update Video">
+      <option name="closed" value="true" />
+      <created>1728027430713</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728027430713</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update Video" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Video" />
   </component>
 </project>
